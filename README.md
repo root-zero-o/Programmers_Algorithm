@@ -17,3 +17,4 @@
 - [문자열을 정수로 바꾸기](https://github.com/yyeonggg/Programmers_Algorithm/blob/main/level1/%EB%AC%B8%EC%9E%90%EC%97%B4%EC%9D%84_%EC%A0%95%EC%88%98%EB%A1%9C_%EB%B0%94%EA%BE%B8%EA%B8%B0.md)
 - [없는 숫자 더하기](https://github.com/yyeonggg/Programmers_Algorithm/blob/main/level1/%EC%97%86%EB%8A%94_%EC%88%AB%EC%9E%90_%EB%8D%94%ED%95%98%EA%B8%B0.md)
 - [음양 더하기](https://github.com/yyeonggg/Programmers_Algorithm/blob/main/level1/%EC%9D%8C%EC%96%91%EB%8D%94%ED%95%98%EA%B8%B0.md)
+- [평균 구하기](https://github.com/yyeonggg/Programmers_Algorithm/blob/main/level1/%ED%8F%89%EA%B7%A0%EA%B5%AC%ED%95%98%EA%B8%B0.md)
