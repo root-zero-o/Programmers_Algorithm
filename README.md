@@ -18,3 +18,4 @@
 - [없는 숫자 더하기](https://github.com/yyeonggg/Programmers_Algorithm/blob/main/level1/%EC%97%86%EB%8A%94_%EC%88%AB%EC%9E%90_%EB%8D%94%ED%95%98%EA%B8%B0.md)
 - [음양 더하기](https://github.com/yyeonggg/Programmers_Algorithm/blob/main/level1/%EC%9D%8C%EC%96%91%EB%8D%94%ED%95%98%EA%B8%B0.md)
 - [평균 구하기](https://github.com/yyeonggg/Programmers_Algorithm/blob/main/level1/%ED%8F%89%EA%B7%A0%EA%B5%AC%ED%95%98%EA%B8%B0.md)
+- [특정 날짜 요일 구하기](https://github.com/yyeonggg/Programmers_Algorithm/blob/main/level1/%ED%8A%B9%EC%A0%95%EB%82%A0%EC%A7%9C_%EC%9A%94%EC%9D%BC%EA%B5%AC%ED%95%98%EA%B8%B0.md)
