@@ -21,3 +21,4 @@
 - [특정 날짜 요일 구하기](https://github.com/yyeonggg/Programmers_Algorithm/blob/main/level1/%ED%8A%B9%EC%A0%95%EB%82%A0%EC%A7%9C_%EC%9A%94%EC%9D%BC%EA%B5%AC%ED%95%98%EA%B8%B0.md)
 - [핸드폰 번호 가리기](https://github.com/yyeonggg/Programmers_Algorithm/blob/main/level1/%ED%95%B8%EB%93%9C%ED%8F%B0%EB%B2%88%ED%98%B8_%EA%B0%80%EB%A6%AC%EA%B8%B0.md)
 - [행렬의 덧셈](https://github.com/yyeonggg/Programmers_Algorithm/blob/main/level1/%ED%96%89%EB%A0%AC%EC%9D%98_%EB%8D%A7%EC%85%88.md)
+- [x만큼 간격이 있는 n개의 숫자](https://github.com/yyeonggg/Programmers_Algorithm/blob/main/level1/x%EB%A7%8C%ED%81%BC_%EA%B0%84%EA%B2%A9%EC%9D%B4_%EC%9E%88%EB%8A%94_n%EA%B0%9C%EC%9D%98_%EC%88%AB%EC%9E%90.md)
