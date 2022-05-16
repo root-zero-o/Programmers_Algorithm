@@ -20,3 +20,4 @@
 - [평균 구하기](https://github.com/yyeonggg/Programmers_Algorithm/blob/main/level1/%ED%8F%89%EA%B7%A0%EA%B5%AC%ED%95%98%EA%B8%B0.md)
 - [특정 날짜 요일 구하기](https://github.com/yyeonggg/Programmers_Algorithm/blob/main/level1/%ED%8A%B9%EC%A0%95%EB%82%A0%EC%A7%9C_%EC%9A%94%EC%9D%BC%EA%B5%AC%ED%95%98%EA%B8%B0.md)
 - [핸드폰 번호 가리기](https://github.com/yyeonggg/Programmers_Algorithm/blob/main/level1/%ED%95%B8%EB%93%9C%ED%8F%B0%EB%B2%88%ED%98%B8_%EA%B0%80%EB%A6%AC%EA%B8%B0.md)
+- [행렬의 덧셈](https://github.com/yyeonggg/Programmers_Algorithm/blob/main/level1/%ED%96%89%EB%A0%AC%EC%9D%98_%EB%8D%A7%EC%85%88.md)
