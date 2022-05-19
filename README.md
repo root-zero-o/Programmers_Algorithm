@@ -24,3 +24,4 @@
 - [x만큼 간격이 있는 n개의 숫자](https://github.com/yyeonggg/Programmers_Algorithm/blob/main/level1/x%EB%A7%8C%ED%81%BC_%EA%B0%84%EA%B2%A9%EC%9D%B4_%EC%9E%88%EB%8A%94_n%EA%B0%9C%EC%9D%98_%EC%88%AB%EC%9E%90.md)
 - [부족한 금액 계산하기](https://github.com/yyeonggg/Programmers_Algorithm/blob/main/level1/%EB%B6%80%EC%A1%B1%ED%95%9C_%EA%B8%88%EC%95%A1_%EA%B3%84%EC%82%B0%ED%95%98%EA%B8%B0.md)
 - [수박수박](https://github.com/yyeonggg/Programmers_Algorithm/blob/main/level1/%EC%88%98%EB%B0%95%EC%88%98%EB%B0%95.md)
+- [자릿수 더하기](https://github.com/yyeonggg/Programmers_Algorithm/blob/main/level1/%EC%9E%90%EB%A6%BF%EC%88%98_%EB%8D%94%ED%95%98%EA%B8%B0.md)
