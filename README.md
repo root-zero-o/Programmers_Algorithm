@@ -8,6 +8,10 @@
 <br>
 <br>
 어려운 알고리즘 문제를 뚝딱하고 풀 때 까지 계속됩니다!😊
+<br>
+<br>
+
+**🟡 : 카카오 문제*
 
 ## Level 1
 - [직사각형 별찍기](https://github.com/yyeonggg/Programmers_Algorithm/blob/main/level1/%EC%A7%81%EC%82%AC%EA%B0%81%ED%98%95%EB%B3%84%EC%B0%8D%EA%B8%B0.md)
@@ -26,3 +30,4 @@
 - [수박수박](https://github.com/yyeonggg/Programmers_Algorithm/blob/main/level1/%EC%88%98%EB%B0%95%EC%88%98%EB%B0%95.md)
 - [자릿수 더하기](https://github.com/yyeonggg/Programmers_Algorithm/blob/main/level1/%EC%9E%90%EB%A6%BF%EC%88%98_%EB%8D%94%ED%95%98%EA%B8%B0.md)
 - [자연수 뒤집어 배열로 만들기](https://github.com/yyeonggg/Programmers_Algorithm/blob/main/level1/%EC%9E%90%EC%97%B0%EC%88%98_%EB%92%A4%EC%A7%91%EC%96%B4_%EB%B0%B0%EC%97%B4%EB%A1%9C_%EB%A7%8C%EB%93%A4%EA%B8%B0.md)
+- [신고 결과 받기🟡](https://github.com/yyeonggg/Programmers_Algorithm/blob/main/level1/%EC%8B%A0%EA%B3%A0_%EA%B2%B0%EA%B3%BC_%EB%B0%9B%EA%B8%B0.md)
