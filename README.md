@@ -34,4 +34,4 @@
 - [숫자 문자열과 영단어🟡](https://github.com/yyeonggg/Programmers_Algorithm/blob/main/level1/%EC%88%AB%EC%9E%90_%EB%AC%B8%EC%9E%90%EC%97%B4%EA%B3%BC_%EC%98%81%EB%8B%A8%EC%96%B4.md)
 - [키패드 누르기🟡](https://github.com/yyeonggg/Programmers_Algorithm/blob/main/level1/%ED%82%A4%ED%8C%A8%EB%93%9C_%EB%88%84%EB%A5%B4%EA%B8%B0.md)
 - [내적](https://github.com/yyeonggg/Programmers_Algorithm/blob/main/level1/%EB%82%B4%EC%A0%81.md)
-- [완주하지 못한 ](https://github.com/yyeonggg/Programmers_Algorithm/blob/main/level1/%EC%99%84%EC%A3%BC%ED%95%98%EC%A7%80_%EB%AA%BB%ED%95%9C_%EC%84%A0%EC%88%98.md)
+- [완주하지 못한 선수](https://github.com/yyeonggg/Programmers_Algorithm/blob/main/level1/%EC%99%84%EC%A3%BC%ED%95%98%EC%A7%80_%EB%AA%BB%ED%95%9C_%EC%84%A0%EC%88%98.md)
