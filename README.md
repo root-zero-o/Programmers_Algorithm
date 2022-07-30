@@ -37,3 +37,4 @@
 - [완주하지 못한 선수](https://github.com/yyeonggg/Programmers_Algorithm/blob/main/level1/%EC%99%84%EC%A3%BC%ED%95%98%EC%A7%80_%EB%AA%BB%ED%95%9C_%EC%84%A0%EC%88%98.md)
 - [K번째 수](https://github.com/yyeonggg/Programmers_Algorithm/blob/main/level1/K%EB%B2%88%EC%A7%B8%EC%88%98.md)
 - [모의고사](https://github.com/root-zero-o/Programmers_Algorithm/blob/main/level1/%EB%AA%A8%EC%9D%98%EA%B3%A0%EC%82%AC.md)
+- [로또의 최고 순위와 최저 순위](https://github.com/root-zero-o/Programmers_Algorithm/blob/main/level1/%EB%A1%9C%EB%98%90%EC%9D%98_%EC%B5%9C%EA%B3%A0_%EC%88%9C%EC%9C%84%EC%99%80_%EC%B5%9C%EC%A0%80_%EC%88%9C%EC%9C%84.md)
