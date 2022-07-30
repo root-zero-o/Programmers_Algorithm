@@ -40,3 +40,4 @@
 - [로또의 최고 순위와 최저 순위](https://github.com/root-zero-o/Programmers_Algorithm/blob/main/level1/%EB%A1%9C%EB%98%90%EC%9D%98_%EC%B5%9C%EA%B3%A0_%EC%88%9C%EC%9C%84%EC%99%80_%EC%B5%9C%EC%A0%80_%EC%88%9C%EC%9C%84.md)
 - [폰켓몬](https://github.com/root-zero-o/Programmers_Algorithm/blob/main/level1/%ED%8F%B0%EC%BC%93%EB%AA%AC.md)
 - [체육복](https://github.com/root-zero-o/Programmers_Algorithm/blob/main/level1/%EC%B2%B4%EC%9C%A1%EB%B3%B5.md)
+- [실패율🟡](https://github.com/root-zero-o/Programmers_Algorithm/blob/main/level1/%EC%8B%A4%ED%8C%A8%EC%9C%A8.md)
