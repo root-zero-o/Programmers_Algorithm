@@ -42,3 +42,4 @@
 - [체육복](https://github.com/root-zero-o/Programmers_Algorithm/blob/main/level1/%EC%B2%B4%EC%9C%A1%EB%B3%B5.md)
 - [실패율🟡](https://github.com/root-zero-o/Programmers_Algorithm/blob/main/level1/%EC%8B%A4%ED%8C%A8%EC%9C%A8.md)
 - [약수의 개수와 덧셈](https://github.com/root-zero-o/Programmers_Algorithm/blob/main/level1/%EC%95%BD%EC%88%98%EC%9D%98_%EA%B0%9C%EC%88%98%EC%99%80_%EB%8D%A7%EC%85%88.md)
+- [3진법 뒤집기](https://github.com/root-zero-o/Programmers_Algorithm/blob/main/level1/3%EC%A7%84%EB%B2%95_%EB%92%A4%EC%A7%91%EA%B8%B0.md)
