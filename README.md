@@ -45,3 +45,4 @@
 - [3진법 뒤집기](https://github.com/root-zero-o/Programmers_Algorithm/blob/main/level1/3%EC%A7%84%EB%B2%95_%EB%92%A4%EC%A7%91%EA%B8%B0.md)
 - [예산](https://github.com/root-zero-o/Programmers_Algorithm/blob/main/level1/%EC%98%88%EC%82%B0.md)
 - [두 개 뽑아서 더하기](https://github.com/root-zero-o/Programmers_Algorithm/blob/main/level1/%EB%91%90_%EA%B0%9C_%EB%BD%91%EC%95%84%EC%84%9C_%EB%8D%94%ED%95%98%EA%B8%B0.md)
+- [최소직사각형](https://github.com/root-zero-o/Programmers_Algorithm/blob/main/level1/%EC%B5%9C%EC%86%8C%EC%A7%81%EC%82%AC%EA%B0%81%ED%98%95.md)
